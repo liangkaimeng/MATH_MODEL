@@ -1,0 +1,32 @@
+Chapter 1 Linear Programming 线性规划
+Chapter 2 Integer Programming 整数规划
+Chapter 3 Nonlinear Programming 非线性规划
+Chapter 4 Dynamic Programming 动态规划
+Chapter 5 Graphic and Network Models 图与网络
+Chapter 6 Queuing Theory 排队论
+Chapter 7 Game Theory 对策论
+Chapter 8 Analytic Hierarchy Process 层次分析法
+Chapter 9 Interpolation and Fitting 插值与拟合
+Chapter 10 Descriptive Statistics 描述性统计
+Chapter 11 Analysis of Variance 方差分析
+Chapter 12 Regression Analysis 回归分析 
+Chapter 13 Differential Equation Model 微分方程建模
+Chapter 14 Steady State Model 稳定状态模型
+Chapter 15 Ordinary Differential Equation 常微分方程
+Chapter 16 Difference Equation Model 差分方程模型
+Chapter 17 Markov Chain Model 马氏链模型
+Chapter 18 Dynamic Optimization Model 动态优化模型
+Chapter 19 Neural Networks 神经网络模型
+Chapter 20 Partial Differential Equation 偏微分方程
+Chapter 21 Goal Programming 目标规划
+Chapter 22 Fuzzy Model 模糊模型
+Chapter 23 Modern Optimization Algorithm 现代优化算法
+Chapter 24 Time Series Model 时间序列模型
+Chapter 25 Grey Model 灰色模型
+Chapter 26 Multivariate Analysis 多元分析
+Chapter 27 Partial Least-square Method 偏最小二乘回归分析
+Chapter 28 Inventory Theory 存贮论
+Chapter 29 Optimization in economy and Finance 经济与金融中的优化问题
+Chapter 30 Optimization of production and service operation management 生产与服务运作管理中的优化问题
+Chapter 31 Support Vector Machine 支持向量机
+Chapter 32 Job Scheduling 作业计划
